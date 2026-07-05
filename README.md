@@ -5,8 +5,8 @@
 ---
 
 ## 🌐 官方直达通道
-*   **官方网站**：[点击前往你的机场官网](https://falmera.1flyuntt.cc/#/register?code=sX5SIPqg)
-*   **备用域名**：[点击备用通道](这里换成你的备用网址链接)
+*   **官方网站**：[点击前往你的机场官网](https://01.1flyunaff.cc)
+*   **官方客服及售后社区**：[点击备用通道](https://t.me/yifancloud)
 
 ---
 
