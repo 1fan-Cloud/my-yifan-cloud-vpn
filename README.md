@@ -96,7 +96,9 @@
 *   **第 2 步**：点击官网右下角的 **【在线工单 / 联系客服】** 按钮，或者直接前往我们的官方 Telegram 交流群 [👉 点击加入TG](https://t.me/+2jO3o0kNHTZjNjQ1) 私聊官方在线客服。
 *   **第 3 步**：向客服提供您的**官网注册邮箱/账号**，技术客服验证后会在 1 分钟内将您的专属加密订阅链接发送给您。
 
-【📷 **截图准备提示 3**：这里可以准备一张官网后台“联系客服/工单”位置的截图，或者 Telegram 官方客服账号的个人资料截图，指引用户去哪里找人。】
+<img width="1528" height="690" alt="step 1教人" src="https://github.com/user-attachments/assets/b6e48985-fd25-4f06-831e-d227da25f1f9" />
+<img width="1536" height="695" alt="step 2教人" src="https://github.com/user-attachments/assets/0e557ff6-bfb3-4739-b28f-88877edf3361" />
+
 
 ---
 
