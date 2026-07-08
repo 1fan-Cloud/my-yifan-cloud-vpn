@@ -96,8 +96,9 @@
 *   **第 2 步**：点击官网右下角的 **【在线工单 / 联系客服】** 按钮，或者直接前往我们的官方 Telegram 交流群 [👉 点击加入TG](https://t.me/+2jO3o0kNHTZjNjQ1) 私聊官方在线客服。
 *   **第 3 步**：向客服提供您的**官网注册邮箱/账号**，技术客服验证后会在 1 分钟内将您的专属加密订阅链接发送给您。
 
-<img width="1528" height="690" alt="step 1教人" src="https://github.com/user-attachments/assets/b6e48985-fd25-4f06-831e-d227da25f1f9" />
-<img width="1536" height="695" alt="step 2教人" src="https://github.com/user-attachments/assets/0e557ff6-bfb3-4739-b28f-88877edf3361" />
+<img width="1280" height="578" alt="photo_2026-07-08_13-50-53" src="https://github.com/user-attachments/assets/e60bd1d6-1123-4115-8c73-d040fa017854" />
+<img width="1280" height="579" alt="photo_2026-07-08_13-50-55" src="https://github.com/user-attachments/assets/1e194e1a-697a-4afc-9765-5b7363763988" />
+
 
 
 ---
