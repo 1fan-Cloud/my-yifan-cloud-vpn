@@ -1,4 +1,4 @@
-<img width="3584" height="1184" alt="Gemini_Generated_Image_v3fqwhv3fqwhv3fq" src="https://github.com/user-attachments/assets/14e3a6cc-0cd5-41b5-bb92-e472105c7af7" />
+<img width="2597" height="4526" alt="一翻云-流媒体AI解锁图2" src="https://github.com/user-attachments/assets/e4dcb1d5-18a9-4b43-aba1-8838a7f63312" /><img width="3584" height="1184" alt="Gemini_Generated_Image_v3fqwhv3fqwhv3fq" src="https://github.com/user-attachments/assets/14e3a6cc-0cd5-41b5-bb92-e472105c7af7" />
 
 
 # 🚀 一翻云 | 2026全地形高速跨境网络加速服务白皮书
@@ -73,7 +73,7 @@
 【📷 **截图准备提示 1**：建议去你的【一翻云】客户端、或者电脑端的 Speedtest、或者网页测速工具里，截一张节点全部亮绿灯、或者下载速度跑满带宽的图，放在这里。】
 
 ### 2. 流媒体及 AI 工具解锁报告
-<img width="2782" height="4352" alt="一翻云-流媒体AI解锁图" src="https://github.com/user-attachments/assets/9a727990-2a7a-4f17-8a11-1e9fffe14404" />
+<img width="2597" height="4526" alt="一翻云-流媒体AI解锁图2" src="https://github.com/user-attachments/assets/35a514e3-3379-48e2-9c70-98a3cde07dd0" />
 
 
 ---
