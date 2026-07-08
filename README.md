@@ -1,4 +1,4 @@
-<img width="2597" height="4526" alt="一翻云-流媒体AI解锁图2" src="https://github.com/user-attachments/assets/e4dcb1d5-18a9-4b43-aba1-8838a7f63312" /><img width="3584" height="1184" alt="Gemini_Generated_Image_v3fqwhv3fqwhv3fq" src="https://github.com/user-attachments/assets/14e3a6cc-0cd5-41b5-bb92-e472105c7af7" />
+<img width="3584" height="1184" alt="Gemini_Generated_Image_v3fqwhv3fqwhv3fq" src="https://github.com/user-attachments/assets/14e3a6cc-0cd5-41b5-bb92-e472105c7af7" />
 
 
 # 🚀 一翻云 | 2026全地形高速跨境网络加速服务白皮书
