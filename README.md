@@ -114,7 +114,9 @@
 * **优势**：专为轻度使用者、或者当作主力梯子备用卡的用户设计。刷视频、TG 聊天、ChatGPT 办公足够使用，超长年付免去每月续费烦恼！（注：本福利小包已为极低利润，不参与全站9折活动）。
 
 
-![一翻云常规周期套餐一览](---<img width="1397" height="911" alt="常规套餐" src="https://github.com/user-attachments/assets/c2850929-a639-42a7-ae7a-30d50dcfc12e" />)
+![一翻云常规周期套餐一览]
+<img width="1397" height="911" alt="常规套餐" src="https://github.com/user-attachments/assets/5087285a-1667-4e2a-839b-a43ec9e48976" />
+
 
 
 
@@ -130,7 +132,9 @@
 2. **同样专线平权**：虽然是一次性计费，但依然享有一翻云 60+ 顶级专线节点（港/澳/台/新/日/美等）以及**无设备限制、无限速**的核心尊享体验！
 
 
-![一翻云不限时套餐一览](<img width="1579" height="879" alt="不限时套餐" src="https://github.com/user-attachments/assets/771b0220-c4fe-4891-9432-fa5dab925fab" />)
+![一翻云不限时套餐一览]
+<img width="1579" height="879" alt="不限时套餐" src="https://github.com/user-attachments/assets/7b4354ba-fff2-44f8-aad4-793fec643cc7" />
+
 
 ---
 
