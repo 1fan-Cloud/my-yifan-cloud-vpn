@@ -70,7 +70,7 @@
 我们坚持每日对节点进行真实测速，拒绝“快乐表”，以下为最新实测报告：
 
 ### 1. 晚高峰常规节点吞吐量测试
-【📷 **截图准备提示 1**：建议去你的【一翻云】客户端、或者电脑端的 Speedtest、或者网页测速工具里，截一张节点全部亮绿灯、或者下载速度跑满带宽的图，放在这里。】
+<img width="2092" height="3772" alt="YUZHOU测速图 (2)" src="https://github.com/user-attachments/assets/da9654e3-2f7e-4333-ae71-e369a9354c8c" />
 
 ### 2. 流媒体及 AI 工具解锁报告
 <img width="2597" height="4526" alt="一翻云-流媒体AI解锁图2" src="https://github.com/user-attachments/assets/35a514e3-3379-48e2-9c70-98a3cde07dd0" />
