@@ -11,7 +11,7 @@
 
 为应对不同网络环境下的屏蔽与污染，请认准以下官方唯一正版入口：
 
-* **⚡ 官方主站点**：[👉 点击直接进入【一翻云】官网](https://01.1flyunaff.cc)
+* **⚡ 官方主站点**：[👉 点击直接进入【一翻云】官网](https://wzjc.1flyunaff.cc/#/register?code=JSuuoEmO)
 * **📢 Telegram 官方频道（核心通知）**：[👉 点击关注官方频道](https://t.me/yifan_cloud) (实时接收重要维护、容灾域名与最新优惠通知)
 * **👥 Telegram 官方群组（吹水互助）**：[👉 点击加入 TG 交流社区](https://t.me/+2jO3o0kNHTZjNjQ1)
 
